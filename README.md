@@ -1,1 +1,2 @@
 # FinalGame
+The main premise of the game will be the user will be trying to move the cannon back and forth along the wall to protect the castle from monsters trying to destroy it. As you continue to protect the castle and kill more monsters you will be able to upgrade the cannon’s damage. The more Monsters that come the harder that they will get as you progress through waves of them. Until you reach the final boss monster which you will need to defeat in order to win the game.  
